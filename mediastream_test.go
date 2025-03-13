@@ -4,7 +4,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/pion/mediadevices/pkg/codec"
+	"github.com/0xbytejay/mediadevices/pkg/codec"
 	"github.com/pion/webrtc/v4"
 )
 

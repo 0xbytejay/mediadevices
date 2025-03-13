@@ -1,9 +1,9 @@
 package driver
 
 import (
-	"github.com/pion/mediadevices/pkg/io/audio"
-	"github.com/pion/mediadevices/pkg/io/video"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/0xbytejay/mediadevices/pkg/io/audio"
+	"github.com/0xbytejay/mediadevices/pkg/io/video"
+	"github.com/0xbytejay/mediadevices/pkg/prop"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

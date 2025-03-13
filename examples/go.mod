@@ -1,10 +1,10 @@
-module github.com/pion/mediadevices/examples
+module github.com/0xbytejay/mediadevices/examples
 
 go 1.21
 
 require (
 	github.com/esimov/pigo v1.4.6
-	github.com/pion/mediadevices v0.0.0
+	github.com/0xbytejay/mediadevices v0.0.0
 	github.com/pion/webrtc/v4 v4.0.13
 )
 
@@ -34,4 +34,4 @@ require (
 	golang.org/x/sys v0.30.0 // indirect
 )
 
-replace github.com/pion/mediadevices v0.0.0 => ../
+replace github.com/0xbytejay/mediadevices v0.0.0 => ../

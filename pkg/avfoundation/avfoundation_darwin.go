@@ -17,8 +17,8 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/pion/mediadevices/pkg/frame"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/0xbytejay/mediadevices/pkg/frame"
+	"github.com/0xbytejay/mediadevices/pkg/prop"
 )
 
 type MediaType C.AVBindMediaType

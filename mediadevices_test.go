@@ -5,11 +5,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pion/mediadevices/pkg/driver"
-	_ "github.com/pion/mediadevices/pkg/driver/audiotest"
-	_ "github.com/pion/mediadevices/pkg/driver/videotest"
-	"github.com/pion/mediadevices/pkg/frame"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/0xbytejay/mediadevices/pkg/driver"
+	_ "github.com/0xbytejay/mediadevices/pkg/driver/audiotest"
+	_ "github.com/0xbytejay/mediadevices/pkg/driver/videotest"
+	"github.com/0xbytejay/mediadevices/pkg/frame"
+	"github.com/0xbytejay/mediadevices/pkg/prop"
 )
 
 func TestGetUserMedia(t *testing.T) {

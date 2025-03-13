@@ -6,11 +6,11 @@ import (
 	"io"
 	"sync"
 
-	"github.com/pion/mediadevices/pkg/codec"
-	"github.com/pion/mediadevices/pkg/io/audio"
-	"github.com/pion/mediadevices/pkg/prop"
-	"github.com/pion/mediadevices/pkg/wave"
-	"github.com/pion/mediadevices/pkg/wave/mixer"
+	"github.com/0xbytejay/mediadevices/pkg/codec"
+	"github.com/0xbytejay/mediadevices/pkg/io/audio"
+	"github.com/0xbytejay/mediadevices/pkg/prop"
+	"github.com/0xbytejay/mediadevices/pkg/wave"
+	"github.com/0xbytejay/mediadevices/pkg/wave/mixer"
 )
 
 /*

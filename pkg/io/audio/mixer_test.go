@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/pion/mediadevices/pkg/wave"
-	"github.com/pion/mediadevices/pkg/wave/mixer"
+	"github.com/0xbytejay/mediadevices/pkg/wave"
+	"github.com/0xbytejay/mediadevices/pkg/wave/mixer"
 )
 
 func TestMixer(t *testing.T) {

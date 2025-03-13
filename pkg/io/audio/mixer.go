@@ -1,8 +1,8 @@
 package audio
 
 import (
-	"github.com/pion/mediadevices/pkg/wave"
-	"github.com/pion/mediadevices/pkg/wave/mixer"
+	"github.com/0xbytejay/mediadevices/pkg/wave"
+	"github.com/0xbytejay/mediadevices/pkg/wave/mixer"
 )
 
 // NewChannelMixer creates audio transform to mix audio channels.

@@ -3,10 +3,10 @@ package opus
 import (
 	"testing"
 
-	"github.com/pion/mediadevices/pkg/codec"
-	"github.com/pion/mediadevices/pkg/codec/internal/codectest"
-	"github.com/pion/mediadevices/pkg/prop"
-	"github.com/pion/mediadevices/pkg/wave"
+	"github.com/0xbytejay/mediadevices/pkg/codec"
+	"github.com/0xbytejay/mediadevices/pkg/codec/internal/codectest"
+	"github.com/0xbytejay/mediadevices/pkg/prop"
+	"github.com/0xbytejay/mediadevices/pkg/wave"
 )
 
 func TestShouldImplementBitRateControl(t *testing.T) {

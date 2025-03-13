@@ -11,12 +11,12 @@ import (
 	"github.com/pion/interceptor"
 	"github.com/pion/rtcp"
 
+	"github.com/0xbytejay/mediadevices/pkg/codec"
+	"github.com/0xbytejay/mediadevices/pkg/driver"
+	"github.com/0xbytejay/mediadevices/pkg/io/audio"
+	"github.com/0xbytejay/mediadevices/pkg/io/video"
+	"github.com/0xbytejay/mediadevices/pkg/wave"
 	"github.com/google/uuid"
-	"github.com/pion/mediadevices/pkg/codec"
-	"github.com/pion/mediadevices/pkg/driver"
-	"github.com/pion/mediadevices/pkg/io/audio"
-	"github.com/pion/mediadevices/pkg/io/video"
-	"github.com/pion/mediadevices/pkg/wave"
 	"github.com/pion/rtp"
 	"github.com/pion/webrtc/v4"
 )

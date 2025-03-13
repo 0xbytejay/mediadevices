@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/pion/mediadevices/pkg/driver"
+	"github.com/0xbytejay/mediadevices/pkg/driver"
 )
 
 func TestDiscover(t *testing.T) {

@@ -48,9 +48,9 @@ import (
 	"sync/atomic"
 	"unsafe"
 
-	"github.com/pion/mediadevices/pkg/codec"
-	"github.com/pion/mediadevices/pkg/io/video"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/0xbytejay/mediadevices/pkg/codec"
+	"github.com/0xbytejay/mediadevices/pkg/io/video"
+	"github.com/0xbytejay/mediadevices/pkg/prop"
 )
 
 const (
