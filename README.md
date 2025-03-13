@@ -228,5 +228,11 @@ If you need commercial support or don't want to use public methods you can conta
 ### Contributing
 Check out the [contributing wiki](https://github.com/pion/webrtc/wiki/Contributing) to join the group of amazing people making this project possible
 
+## Third-Party Code Sources
+
+This project uses code from the following third-party sources:
+
+- **[hraban/opus](https://github.com/hraban/opus)**: Licensed under the MIT License. Copyright (c) [Hraban Luyat <hraban@0brg.net>].
+
 ### License
 MIT License - see [LICENSE](LICENSE) for full text
